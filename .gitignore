@@ -398,3 +398,44 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/glm/detail
+/glm/gtc
+/glm/gtx
+/glm
+/bmptotexture.cpp
+/errorlog.txt
+/freeglut.h
+/freeglut.lib
+/freeglut_ext.h
+/freeglut_std.h
+/glew.h
+/glew32.dll
+/glew32.lib
+/glsllog.txt
+/glslprogram.cpp
+/glslprogram.h
+/glut.h
+/glut32.dll
+/keytime.cpp
+/keytime.h
+/libcd.lib
+/LIBCID.LIB
+/loadobjfile.cpp
+/Makefile
+/mtl.cpp
+/noise2d.064.tex
+/noise3d.064.tex
+/osucone.cpp
+/osusphere.cpp
+/osutorus.cpp
+/Project # 1 CS457 _ Step- and Blended-edged Elliptical Dots - Dylan Keyhantaj.pdf
+/sample
+/Sample.sln
+/Sample.vcproj
+/Sample.vcxproj
+/Sample.vcxproj.filters
+/setlight.cpp
+/setmaterial.cpp
+/vertexbufferobject.cpp
+/Week 3 Discussion.jpg
+/worldtex.bmp
