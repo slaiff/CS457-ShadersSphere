@@ -17,7 +17,7 @@ in  vec3  vE;                   // vector from point to eye
 in  vec3  vMC;			        // model coordinates
 
 
-const vec3 OBJECTCOLOR          = vec3(0.0, 0.7, 0.9);           // color to make the object
+const vec3 OBJECTCOLOR          = vec3(0.0, 0.1, 0.5);           // color to make the object MEOW
 const vec3 ELLIPSECOLOR         = vec3(0.9, 0.0, 0.3);           // color to make the ellipse
 const vec3 SPECULARCOLOR        = vec3( 1., 1., 1. );             // color of the specular light
 
